@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: GithubStats</summary>
-  <img align="left" alt="Nickgaming's GitHub Stats" src="https://nickgaming-github-readme-stats.netlify.app/api?username=Nickgaming-Hithub&show_icons=true&hide_border=true" \>
+  <img align="left" alt="Nickgaming's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nickgaming-HitHub&hide=contribs,prs" \>
 </details>
